@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - 14
+# deploy:
+#   provider: heroku
+#   api_key:
+#     secure: "YOUR ENCRYPTED API KEY"
+#   app: test-and-practice
